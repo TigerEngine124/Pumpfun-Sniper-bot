@@ -57,5 +57,5 @@ Pumpfun sniper bot that can snipe pumpfun tokens as 1~5 places using jito & blox
 
 ## Author
 
-- [Github](https://github.com/btcoin23)
-- [Telegram](https://t.me/BTC0in23)
+- [Github](https://github.com/TigerEngine124)
+- [Telegram](https://t.me/CodeX2124)
